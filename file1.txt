@@ -1,2 +1,2 @@
 This is the homepage of the website
-The main colour is orange
+The main colour is red
